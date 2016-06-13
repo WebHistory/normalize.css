@@ -1,10 +1,9 @@
 {
-  "name": "normalize-css",
-  "description": "A modern alternative to CSS resets",
-  "main": "normalize.css",
+  "name": "normalize-rtl-css",
+  "description": "Style-normalizations with RTL in mind.",
+  "main": "normalize.rtl.css",
   "authors": [
-    "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com/)",
-    "Nicolas Gallagher <nicolas@nicolasgallagher.com> (http://nicolasgallagher.com/)"
+    "Mohammad Hossein Mojtahedi <mhm5000@gmail.com> (http://mojtahedi.info/)"
   ],
   "license": "MIT",
   "ignore": [

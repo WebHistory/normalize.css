@@ -1,10 +1,6 @@
-# normalize.css
+# normalize.rtl.css
 
-<a href="https://github.com/necolas/normalize.css"><img
-  src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
-  width="80" height="80" align="right"></a>
-
-> A modern alternative to CSS resets
+> A modern alternative to CSS resets with RTL Design in mind
 
 [![npm][npm-image]][npm-url] [![license][license-image]][license-url]
 [![changelog][changelog-image]][changelog-url]
@@ -14,22 +10,18 @@
 **NPM**
 
 ```sh
-npm install --save normalize.css
+npm install --save normalize.rtl.css
 ```
 
 **Bower**
 
 ```sh
-bower install --save normalize-css
+bower install --save normalize-rtl-css
 ```
-
-**CDN**
-
-See https://cdnjs.com/libraries/normalize
 
 **Download**
 
-See https://necolas.github.io/normalize.css/latest/normalize.css
+See https://webhistory.github.io/normalize.rtl.css/latest/normalize.rtl.css
 
 
 ## What does it do?
@@ -50,11 +42,6 @@ See https://necolas.github.io/normalize.css/latest/normalize.css
 * Internet Explorer 8+
 * Opera (last two)
 * Safari 6+
-
-*[Normalize.css v1 provides legacy browser support]
-(https://github.com/necolas/normalize.css/tree/v1) (IE 6+, Safari 4+),
-but is no longer actively developed.*
-
 
 ## Extended details and known issues
 
@@ -114,15 +101,13 @@ contribution process easy and effective for everyone involved.
 
 ## Acknowledgements
 
-Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
-co-created with [Jonathan Neal](https://github.com/jonathantneal).
-
+Normalize.rtl.css started as a fork of [Normalize.css](https://github.com/necolas/normalize.css)(a project by [Nicolas Gallagher](https://github.com/necolas), co-created with [Jonathan Neal](https://github.com/jonathantneal)) and is being kept updated by [Mohammad Hossein Mojtahedi](https://github.com/mhm5000) in [Web History](https://github.com/webhistory) team for right to left languages like Persian and Arabic.
 
 [changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg?style=flat-square
 [changelog-url]: CHANGELOG.md
-[license-image]: https://img.shields.io/npm/l/normalize.css.svg?style=flat-square
+[license-image]: https://img.shields.io/npm/l/normalize.rtl.css.svg?style=flat-square
 [license-url]: LICENSE.md
-[npm-image]: https://img.shields.io/npm/v/normalize.css.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/normalize.css
+[npm-image]: https://img.shields.io/npm/v/normalize.rtl.css.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/normalize.rtl.css
 [gitter-image]: https://img.shields.io/badge/chat-gitter-blue.svg?style=flat-square
-[gitter-url]: https://gitter.im/necolas/normalize.css
+[gitter-url]: https://gitter.im/webhistory/normalize.rtl.css

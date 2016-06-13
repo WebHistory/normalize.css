@@ -1,5 +1,9 @@
 # The MIT License (MIT)
 
+Copyright for portions of project normalize.rtl.css are held by [Nicolas Gallagher and Jonathan Neal, 2011-2016] as part of project normalize.css. All other copyright for project normalize.rtl.css are held by [Mohammad Hossein Mojtahedi, 2016].
+
+Copyright © Mohammad Hossein Mojtahedi
+
 Copyright © Nicolas Gallagher and Jonathan Neal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of

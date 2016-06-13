@@ -1,29 +1,35 @@
 {
-  "name": "normalize.css",
-  "version": "4.1.1",
-  "description": "A modern alternative to CSS resets",
-  "main": "normalize.css",
-  "style": "normalize.css",
+  "name": "normalize.rtl.css",
+  "version": "0.1.0",
+  "description": "A modern alternative to CSS resets with RTL in mind",
+  "main": "normalize.rtl.css",
+  "style": "normalize.rtl.css",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "normalize.rtl.css"
   ],
   "devDependencies": {
-    "stylelint": "^5.4.0",
-    "stylelint-config-standard": "^5.0.0"
+    "stylelint": "^6.5.1",
+    "stylelint-config-standard": "^8.0.0"
   },
   "scripts": {
-    "test": "stylelint normalize.css"
+    "test": "stylelint normalize.rtl.css"
   },
-  "repository": "necolas/normalize.css",
+  "repository": "webhistory/normalize.rtl.css",
   "contributors": [
-    "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com/)",
-    "Nicolas Gallagher <nicolas@nicolasgallagher.com> (http://nicolasgallagher.com/)"
+    "Mohammad Hossein Mojtahedi <mhm5000@gmail.com> (http://mojtahedi.info/)"
   ],
   "license": "MIT",
-  "bugs": "https://github.com/necolas/normalize.css/issues",
-  "homepage": "https://necolas.github.io/normalize.css#readme",
+  "bugs": "https://github.com/webhistory/normalize.rtl.css/issues",
+  "homepage": "https://webhistory.github.io/normalize.rtl.css#readme",
   "stylelint": {
     "extends": "stylelint-config-standard"
-  }
+  },
+  "keywords": [
+    "rtl",
+    "normalize",
+    "css",
+    "style",
+    "right to left"
+  ]
 }
